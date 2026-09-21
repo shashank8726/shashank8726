@@ -4,7 +4,7 @@
 ---
 
 🌱 I’m currently learning **PHP, MySQL, Laravel**  
-💼 I want a job as a **Web Developer**  
+💼 I want a job as a **WordPress Developer**  
 📫 Reach me at: shashankpalgzp08@gmail.com
 
 ---
